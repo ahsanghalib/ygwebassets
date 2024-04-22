@@ -63,6 +63,14 @@
       "imgAlt": "Annex Crop Sciences Logo",
       "slog": "Crop Sciences",
       "detail": "Annex Crop Sciences is the most recent inclusion in the Yaqoob Group. The company was founded in 2016 with the aim of extending exquisite customer support to the vast user base. It furthers our reach in the agricultural marketplace and brings valuable business acumen to the group. Annex is shaping the way forward for Yaqoob Group by unlocking prime business opportunities for our corporate partners."
+    },
+    {
+      "id": "afam",
+      "logoUrl": "https://raw.githubusercontent.com/ahsanghalib/ygwebassets/master/logos/afam-logo.png",
+      "title": "Afam Agro Chemicals",
+      "imgAlt": "Afam Agro Chemicals logo",
+      "slog": "Cultivating Excellence, Nurturing Growth.",
+      "detail": "Afam Agro Chemicals is a leading force in the agricultural chemical industry, dedicated to fostering growth and enhancing yields for farmers nationwide. We specialize in producing high-quality micro nutrients, fertilizers, insecticides, weedicides, and fungicides tailored to optimize crop health and maximize productivity. Join us in cultivating a brighter future for agriculture with Afam Agro Chemicals."
     }
   ],
   "managementData": [
